@@ -62,5 +62,3 @@
     bg_color=#808080/></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthuvela&" alt="muthuvela" /></p>

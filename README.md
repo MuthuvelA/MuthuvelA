@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" />
 
 
-- 🌱 I’m currently learning **Flutter, Advanced Data Structures**
+- 🌱 I’m currently learning **SpringBoot, Advanced Data Structures**
 
 - 💬 Ask me about **CP,DSA,App development**
 

@@ -23,35 +23,6 @@
 </a>
 </div>  
 
-<h3 align="left">Tools/Platforms:</h3>
-<p align="left">  
-    <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="intellij" width="40" height="40"/>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pycharm-icon.png" alt="pycharm" width="40" height="40"/>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="vscode" width="40" height="40"/>
-    <img src="https://seeklogo.com/images/A/android-studio-2023-logo-0DAB29430B-seeklogo.com.png" alt="androidstudio" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-<h3 align="left">Database:</h3>
-<p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/>
-</p>
-
-
-
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthuvela&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-  
-
 <br/>  
 
   
